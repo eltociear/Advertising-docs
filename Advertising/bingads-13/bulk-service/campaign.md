@@ -214,7 +214,7 @@ The supported target ROAS values range from 0.01 (1 percent) to 1,000.00 (100,00
 This field is only used if the [Bid Strategy Type](#bidstrategytype) field is set to *TargetRoas*, and otherwise this field is ignored. 
 
 > [!NOTE]
-> The *TargetRoas* bid strategy is available for Dynamic Search Ads, Search, and Shopping campaigns. All of your target locations must be within the United States. 
+> The *TargetRoas* bid strategy is available for Dynamic Search Ads, Search, and Shopping campaigns for customers in the feature pilot ([GetCustomerPilotFeatures](../customer-management-service/getcustomerpilotfeatures.md) returns 721). All of your target locations must be within the United States. 
 
 For more details, see [Budget and Bid Strategies](../guides/budget-bid-strategies.md).
 
